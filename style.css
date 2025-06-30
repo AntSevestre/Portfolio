@@ -184,3 +184,9 @@ footer{
 footer p{
     font-size: 15px;
 }
+hr.split {
+    border: none;
+    border-top: 2px dashed var(--text-color);
+    width: 100%;
+    margin: 100px 0;
+}
