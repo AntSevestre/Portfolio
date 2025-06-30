@@ -152,20 +152,14 @@ section .projects h1{
 section .projects .preview{
     display: flex;
     align-items: center;
-
     margin-bottom: 50px;
-
     background-color: var(--text-color);
+    padding: 10px 100px 10px 100px;
+    border-radius: 10px;
 }
 
 section .projects .preview .left-part{
     margin-right: 80px;
-}
-
-section .projects .preview{
-    padding: 10px 100px 10px 100px;
-
-    border-radius: 10px;
 }
 
 section .projects .preview .right-part{
